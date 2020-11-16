@@ -1,0 +1,18 @@
+ALAN TURING (1912 – 1954)
+ celebru pentru publicul larg pentru contributia lui in spargerea
+rapida a mesajelor Enigma utilizand masina “The Bombe”
+ pratic, masina facea un brute-force search pentru a reduce
+numarul de posibilitati in decriptarea mesajelor
+
+introduce Masina Turing
+ un model teoretic pentru a implementa orice algoritm
+ conceptul de Turing-complete
+
+ intuitia: un sistem care poate recunoaste si
+analiza seturi de reguli pentru manipularea datelor
+(o cantitate infinita, teoretic)
+
+introduce Testul Turing
+ The imitation game: “The original question,
+‘Can machines think!’ I believe to be too
+meaningless to deserve discussion” A. Turing
