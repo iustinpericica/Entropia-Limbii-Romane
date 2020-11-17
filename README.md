@@ -19,13 +19,14 @@ Pentru a rula acest proiect:
     cuvantul pas => 'pas'
     cuvantul casa =>  prefix = 'cas'
     
-  pentru calcularea sufixelor:
-    calculateEntropy.py
-    Acest program face:
-      a. calculeaza dictionarul de sufixe pentru carti
-      b. calculeaza dictionarul de sufixe pentru dictionarul dex
-      c. calculeaza entropia medie pentru sufix
-      d. calculeaza entropia medie pentru prefix
-      e. entropia finala este: ((entropieSufixMedie + entropiePrefixTotal)/lungimeMedieCuvant))
+  <p>pentru calcularea sufixelor: calculateEntropy.py</p>
+   <p>Acest program face:</p>
+   <ul>
+  <li>a. calculeaza dictionarul de sufixe pentru carti</li>
+      <li>b. calculeaza dictionarul de sufixe pentru dictionarul dex</li>
+      <li>c. calculeaza entropia medie pentru sufix</li></li>
+      <li>d. calculeaza entropia medie pentru prefix</li>
+      <li>e. entropia finala este: ((entropieSufixMedie + entropiePrefixTotal)/lungimeMedieCuvant))</li>
+   </ul>
     
     
