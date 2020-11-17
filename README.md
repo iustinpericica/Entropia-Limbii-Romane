@@ -23,9 +23,9 @@ Pentru a rula acest proiect:
   
   <p> Exemplu:
   
-  pas:{
-    ' ':10, # 10 frecvente pentru cuvantul pas
-    'ul': 15# 15 frecvente pentru cuvantul pasul
+  pas:{ </br>
+    ' ':10, # 10 frecvente pentru cuvantul pas </br>
+    'ul': 15# 15 frecvente pentru cuvantul pasul</br>
     }
   
    <p>Acest program face:</p>
