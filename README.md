@@ -2,8 +2,8 @@
 
 Pentru a rula acest proiect:
 
-1. pentru entropia pe o singura litera/ pe x litere:
-  brain/entropieXLitere
+1. <p>pentru entropia pe o singura litera/ pe x litere:</p>
+  <p>brain/entropieXLitere</p>
 2. pentru entropia cu prefixe si sufixe:
 
   salvati pe localhost in sql baza de date dex - optional
