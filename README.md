@@ -20,6 +20,14 @@ Pentru a rula acest proiect:
     cuvantul casa =>  prefix = 'cas'
     
   <p>pentru calcularea sufixelor: calculateEntropy.py</p>
+  
+  <p> Exemplu:
+  
+  pas:{
+    ' ':10, # 10 frecvente pentru cuvantul pas
+    'ul': 15# 15 frecvente pentru cuvantul pasul
+    }
+  
    <p>Acest program face:</p>
    <ul>
   <li>a. calculeaza dictionarul de sufixe pentru carti</li>
