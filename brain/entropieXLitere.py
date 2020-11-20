@@ -1,7 +1,7 @@
 from tika import parser
 import math
 
-carti = ['carte2.pdf', 'carte3.pdf', 'carte4.pdf', 'carte5.pdf']
+carti = ['../carti/carte2.pdf', '../carti/carte3.pdf', '../carti/carte4.pdf', '../carti/carte5.pdf']
 
 dictionar = {}
 
